@@ -1,2 +1,2 @@
 # login
-An example / to practice 
+An example |  to practice 
